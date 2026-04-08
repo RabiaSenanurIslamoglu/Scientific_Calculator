@@ -1,17 +1,19 @@
-# dart_calculator
+# Flutter Scientific Calculator
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş modern ve koyu temalı bir bilimsel hesap makinesi uygulamasıdır.
 
-## Getting Started
+## 🚀 Özellikler
+- **Temel Matematiksel İşlemler:** Toplama (+), Çıkarma (-), Çarpma (×), Bölme (÷)
+- **Bilimsel Fonksiyonlar:** Sinüs (sin), Kosinüs (cos), Tanjant (tan), Logaritma (log), Karekök (sqrt)
+- **Kuvvet Alma:** (^)
+- **Dinamik Girdi:** Gelişmiş ifade çözümleme (Math Expressions kütüphanesi ile)
+- **Kullanıcı Dostu Arayüz:** Modern "Dark Mode" görünümü, farklı renklerle ayrılmış işlem ve silme (C, ⌫) tuşları.
 
-This project is a starting point for a Flutter application.
+## 💻 Kullanılan Teknolojiler
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [math_expressions](https://pub.dev/packages/math_expressions) (Matematiksel işlemler için)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧑‍💻 Geliştirici
+- **İsim:** Rabia Senanur İslamoğlu
+- **Okul No:** 1030510580
